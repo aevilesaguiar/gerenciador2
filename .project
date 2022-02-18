@@ -30,7 +30,11 @@
 	</natures>
 	<filteredResources>
 		<filter>
+<<<<<<< HEAD
 			<id>1645192217277</id>
+=======
+			<id>1645143060548</id>
+>>>>>>> branch 'main' of https://github.com/aevilesaguiar/gerenciador.git
 			<name></name>
 			<type>30</type>
 			<matcher>
